@@ -148,7 +148,8 @@ screenshots/output.png
 
 Then include it in the README:
 
-![Program Output](screenshots/output.png)
+![Program Output](<img width="192" height="188" alt="Screenshot 2026-09-27 at 9 41 00 AM" src="https://github.com/user-attachments/assets/889aa47e-dd9d-4a0f-8218-5b6da400a509" />
+)
 
 Recommended project structure:
 
